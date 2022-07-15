@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.3.0
+
+### Minor Changes
+
+- [#2147](https://github.com/primer/css/pull/2147) [`9dd2a49e`](https://github.com/primer/css/commit/9dd2a49e2633f337c2316a43907f17dfd5c3173b) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Add AppFrame component
+
 ## 20.2.4
 
 ### Patch Changes
